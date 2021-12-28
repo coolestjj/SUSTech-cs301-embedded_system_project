@@ -1,3 +1,5 @@
 # SUSTech-cs301-embedded_system_project
 
-## 11912021
+## A collaborative work of 4 people.
+
+11912021
